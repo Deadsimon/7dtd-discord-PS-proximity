@@ -1,13 +1,13 @@
 # 7daystodie-Bot-PS-proximity
 
-Description:
+# Description:
 
 Discord bot for pseudo proximity chat. moves players to different discord voice channels depending on location.
 if they are in the defined home area, they are moved to the home discord voice channel.
 if they are outside the home it compares the players to the biomes.png and returns which biome the player is in, and then moves them to the appropriate channel (E.G Forest - Forest voice channel)
 See the Setup wiki for more details
 
-Features
+# Features
 
 Player location tracking & history
 
@@ -19,7 +19,7 @@ Configurable variables to customise it to your setup
 
 currently setup for 5 Discord channels
 
-Requirements:
+# Requirements:
 
 allocs server fixes with web token and permissions setup
 
@@ -29,7 +29,7 @@ Mysql with the appropriate setup (check wiki)
 
 Discord bot with bot token
 
-optional:
+# optional:
 
 steam-discord id mapper - https://github.com/Deadsimon/steam-discordmapper
 
