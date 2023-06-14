@@ -1,4 +1,4 @@
-# 7daystodie-Bot-Prototype
+# 7daystodie-Bot-PS-proximity
 
 Description:
 
