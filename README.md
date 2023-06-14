@@ -25,6 +25,7 @@ steam-discord id mapper - https://github.com/Deadsimon/steam-discordmapper
 # Compatibitiy
 
 Alpha 20 - alpha 20.7 = V2.1
+
 Alpha 21 Experimental = V2.15
 
 # To DO list:
