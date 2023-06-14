@@ -22,11 +22,15 @@ currently setup for 5 Discord channels
 Requirements:
 
 allocs server fixes with web token and permissions setup
+
 Mysql with the appropriate setup (check wiki)
+
 7 days server
+
 Discord bot with bot token
 
 optional:
+
 steam-discord id mapper - https://github.com/Deadsimon/steam-discordmapper
 
 # Compatibitiy
