@@ -10,9 +10,13 @@ See the Setup wiki for more details
 Features
 
 Player location tracking & history
+
 home Area detection and Home Voice channel.
+
 Biome detection and Biome voice channels
+
 Configurable variables to customise it to your setup
+
 currently setup for 5 Discord channels
 
 Requirements:
