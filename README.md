@@ -40,3 +40,5 @@ add a Warnings table to the database.
 add check to see how many movement warnings a player has had in a 24hrs - kick player if over 3 in 24hrs, otherwise send admin message "Potential Cheater: USERID, Please review the server logs."
 
 Add ignore list for movement warnings(default: Admin ids) (will be stored in the variablestore)
+
+add image output for RWG games with the historic Map 
